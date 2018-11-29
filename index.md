@@ -1,6 +1,6 @@
 ## Unity's Space Shooter
 
-![Render Graph](../Assets/octavian.png) 
+![Render Graph](Assets/octavian.png) 
 
 This is the basis for this little project, which I hope will have a redheaded housewife throwing objects at a harried husband.  
 
